@@ -15,7 +15,7 @@ It returns a **complete solar feasibility JSON report** including:
 
 ### Example Request
 ```bash
-curl "http://localhost:3000/api/solar/building-insights?address=1 Apple Park Way, Cupertino, CA"
+curl "http://localhost:3000/api/solar/building-insights?address=1%20Apple%20Park%20Way,%20Cupertino,%20CA"
 ```
  
 ### Example Response (shortened)
